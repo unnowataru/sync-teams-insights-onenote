@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teams to OneNote Copilot"
+  short_description: "Assess and design recap URL or transcript summary flow into OneNote"
+  default_prompt: "Evaluate feasibility and design an implementation that accepts Teams recap URL or meeting identifiers, extracts transcript or AI insights, and writes structured summaries into OneNote via Microsoft Graph with constraints and fallback paths."
